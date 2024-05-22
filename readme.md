@@ -1,6 +1,6 @@
 # Skiletro's Vial/QMK Setup
 
-goto `./keyboards/sofle/rev1/keymaps/vial_skiletro`
+Goto [./keyboards/sofle/rev1/keymaps/vial_skiletro](https://github.com/skiletro/vial-qmk/tree/vial/keyboards/sofle/rev1/keymaps/vial_skiletro) for my keymap :^)
 
 ## How to Compile
 
