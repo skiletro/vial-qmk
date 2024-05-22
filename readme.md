@@ -1,3 +1,19 @@
+# Skiletro's Vial/QMK Setup
+
+goto `./keyboards/sofle/rev1/keymaps/vial_skiletro`
+
+## How to Compile
+
+The code is written for a RP2040 Pro-Micro Sofle
+
+```
+make sofle/rev1:vial_skiletro -e CONVERT_TO=promicro_rp2040
+```
+
+# Misc.
+
+<details>
+<summary>Original Readme</summary>
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
@@ -34,3 +50,4 @@ QMK is developed and maintained by Jack Humbert of OLKB with contributions from 
 ## Official Website
 
 [qmk.fm](https://qmk.fm) is the official website of QMK, where you can find links to this page, the documentation, and the keyboards supported by QMK.
+</details>
